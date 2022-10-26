@@ -1,0 +1,6 @@
+# Ignore the build directory
+/SQL
+
+
+# Ignore IDE specific files
+Veterinaria.bak
